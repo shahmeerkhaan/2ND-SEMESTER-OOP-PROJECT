@@ -1,0 +1,113 @@
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe.config
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.pdb
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csprojAssemblyReference.cache
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Form1.resources
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Properties.Resources.resources
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.GenerateResource.cache
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.exe
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.pdb
+C:\Users\786 computers\source\repos\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Login_Form.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe.config
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.pdb
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csprojAssemblyReference.cache
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Form1.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Properties.Resources.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.GenerateResource.cache
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.CoreCompileInputs.cache
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.exe
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.pdb
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Login_Form.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_s_Login_Form.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Login_Form.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Clerk_Staffs_Data_Shower_Login.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Student_s_Data.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Attendance_Login_Form.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Teacher_s_Use.resources
+D:\Kiet 2nd semeter\OOP\OOP PROJECT\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Attendance_Portal.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe.config
+E:\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe
+E:\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.pdb
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csprojAssemblyReference.cache
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Attendance_Portal.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Attendance_Login_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Clerk_Staffs_Data_Shower_Login.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Form1.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Login_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Properties.Resources.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Student_s_Data.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_s_Login_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Teacher_s_Use.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Login_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.GenerateResource.cache
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.CoreCompileInputs.cache
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.exe
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.pdb
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Use.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_Management.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Staff_s_Management.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_s_Management.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Removing_Teachers_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Staff_Removing_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_Removing_Form.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Secondary_Student_s_Data.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Secondary_Teacher_s_Use.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Senior_Student_s_Data.resources
+E:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Senior_Teacher_s_Usage.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe.config
+D:\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe
+D:\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.pdb
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csprojAssemblyReference.cache
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_Management.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Use.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Attendance_Portal.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Attendance_Login_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Clerk_Staffs_Data_Shower_Login.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Form1.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Login_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Properties.Resources.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Removing_Teachers_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Secondary_Student_s_Data.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Secondary_Teacher_s_Use.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Senior_Student_s_Data.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Senior_Teacher_s_Usage.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Staff_Removing_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Staff_s_Management.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_Removing_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Student_s_Data.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_s_Management.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Student_s_Login_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Teacher_s_Use.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Login_Form.resources
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.GenerateResource.cache
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.CoreCompileInputs.cache
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.exe
+D:\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.pdb
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csprojAssemblyReference.cache
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Use.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_s_Login_Form.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Properties.Resources.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Removing_Teachers_Form.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Secondary_Student_s_Data.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Senior_Student_s_Data.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Student_s_Data.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.GenerateResource.cache
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.csproj.CoreCompileInputs.cache
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.exe
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP PROJECT.pdb
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe.config
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.exe
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\bin\Debug\OOP PROJECT.pdb
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Adding_Manager.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Admin_Staff_Work.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Local_Staff_Attendance.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Staffs_Data.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Students_Attendance.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Attendance.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Teacher_s_Use.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Assignment_Insertion.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Primary_Assignment.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Secondary_Assignment.resources
+D:\Kiet 2nd Semester\OOP\OOP Project\OOP PROJECT\OOP PROJECT\obj\Debug\OOP_PROJECT.Senior_Assignment.resources
